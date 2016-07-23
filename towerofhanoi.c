@@ -1,4 +1,9 @@
-//WAP to build tower of Hanoi
+/* 
+Name: Nabina Khadka
+Roll no. 0516
+Section: A
+WAP to build tower of Hanoi
+*/
 
 #include<stdio.h>
 void towers(int,char,char,char);
